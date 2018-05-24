@@ -7,7 +7,7 @@
     "url": "https://github.com/palmtoy/pomelo-data-plugin.git"
   },
   "dependencies": {
-    "pomelo-logger": "0.1.1"
+    "pomelo-logger": "github:zaplmm/pomelo-logger"
     , "csv": "0.3.6"
   }
 }
